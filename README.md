@@ -1,7 +1,7 @@
 pdoCutter
 =========
 
-A tool to prepare pdf files exported from Pepakura for cutting machines. 
+A tool to prepare pdf files exported from Pepakura for cutting machines.
 
 Full documentation is on the way. Meanwhile, here are the basics:
 
@@ -15,7 +15,7 @@ Full documentation is on the way. Meanwhile, here are the basics:
 
 - Allow users to change general settings:
   - Output folder
-  - Path appearance 
+  - Path appearance
   - File output options
 - Create registration marks directly, making templates optional
 
@@ -28,11 +28,12 @@ Full documentation is on the way. Meanwhile, here are the basics:
 
 ## Installation
 
-1. Copy the project files into your Adobe Illustrator Scripts preset folder. For example, for Illustrator CC 2014 (english version) these would be the paths:
+1. Download the [latest release](https://github.com/AurelioB/pdoCutter/releases/latest)
+2. Copy the project files into your Adobe Illustrator Scripts preset folder. For example, for Illustrator CC 2014 (english version) these would be the paths:
   - **OSX:** `/Applications/Adobe Illustrator CC 2014/Presets.localized/en_US/Scripts/`
   - **Windows:** `C:\Program Files\Adobe\Adobe Illustrator CC 2014\Presets\en_US\Scripts\`
-2. Restart Adobe illustrator
-3. Go to `File -> Scripts -> pdoCutter -> pdoCutter`
+3. Restart Adobe illustrator
+4. Go to `File -> Scripts -> pdoCutter -> pdoCutter`
 
 Alternatively, you can avoid installation and use `File -> Scripts -> Other Script...` to launch `pdoCutter.jsx`directly.
 
